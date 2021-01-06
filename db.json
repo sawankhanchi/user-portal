@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Parshant",
+      "email": "userone@gmail.com",
+      "date": "06-01-2021"
+    },
+    {
+      "id": "2",
+      "name": "Sushil",
+      "email": "usertwo@gmail.com",
+      "date": "06-01-2021"
+    },
+    {
+      "id": "4",
+      "name": "Amit",
+      "email": "sappler16@gmail.com",
+      "date": "06-01-2021"
+    },
+    {
+      "id": "5",
+      "name": "Harshit",
+      "email": "sappler16@gmail.com",
+      "date": "06-01-2021"
+    }
+  ]
+}
